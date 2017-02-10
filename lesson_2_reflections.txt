@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+Se necesita inicializar para poder utilizarlo y agregar nuestros commit. Cuando lo creamos
+se crea sin ningún commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+En el area de ensayo se guardan temporalmente los archivos que deseamos pasar a nuestro espacio de trabajo, el repositorio contiene nuestro espacio de trabajo.
