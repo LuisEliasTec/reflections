@@ -19,3 +19,9 @@ Sería volver a lo típico, guardar versiones archivo por archivo localmente, si
 perdiendo tiempo viendo que es la version que buscamos sin ninguna descripcion. Sin embargo,
 utilizar git o github nos ayuda a manetenr uestro proyecto mas organizado y colaborar con
 mas personas será mas facil.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Crear una rama y realizar cambios en ella es una ventaja, ya que como se ha comentado antes,
+crear una rama es crear una alternativa, ya sea para experimentar o probar cosas, entonces,
+si nos equivocamos o causamos aberraciones con el codigo que estemos modificando, no hay problema,
+ya que estamos haciendolo en la rama que creamos y no en la principal.
